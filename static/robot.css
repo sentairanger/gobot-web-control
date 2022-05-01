@@ -1,0 +1,14 @@
+body {
+  background: aqua;
+
+}
+
+.btn-group button{
+   padding: 16px 32px;
+   border-radius: 12px;
+   font-size: 17px;
+   background: #8B65C4;
+   
+
+
+}
